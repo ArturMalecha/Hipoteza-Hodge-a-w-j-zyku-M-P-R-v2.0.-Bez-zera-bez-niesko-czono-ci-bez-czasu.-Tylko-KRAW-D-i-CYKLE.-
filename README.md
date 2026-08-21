@@ -53,3 +53,8 @@ W3. Zastosowanie: Geometria algebraiczna, teoria strun, kodowanie topologiczne. 
 PODSUMOWANIE DLACZEGO MAMY RACJĘ
 Stan faktyczny: Formy (p,p) to CIŚNIENIE MATERII które buduje układ. Operator Laplace'a to NAPIĘCIE CIŚNIENIA które próbuje to zrównoważyć. W każdym CYKLU sprawdzamy ODCHYLENIE Delta. Inżynieria mówi: układ stabilizuje się tylko tam gdzie baza jest skończona i algebraiczna. Rozkład Hodge'a wymusza rzut na KRAWĘDZIE. Poza KRAWĘDZIAMI ODCHYLENIE nie maleje z każdym CYKLEM i REGUŁA_3 nie daje rady. Na KRAWĘDZIACH ALGEBRAICZNYCH ODCHYLENIE maleje i jest kasowane w skończonej liczbie kroków. Nie używamy "nieskończoności". Używamy tylko KOLEJNOŚCI CYKLI i tego co da się zmierzyć na KRAWĘDZI. Skoro w CYKLU 3 Delta jest poniżej 0.01 i dalej maleje to są to jedyne stabilne KRAWĘDZIE. Koniec protokołu.
 
+matterpressuremotion.org, materiacisnienieruch.org
+M•P=R materia•cisnienie=ruch
+Trzy stałe zmienne 
+Teoria Paradoks Żywej Materi 
+OSF, Zenodo, ORCID, facebook - Dom Technologii.
